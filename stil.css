@@ -1,0 +1,308 @@
+
+body         { font-family: Arial; font-size: 9pt }
+.sideskift   { page-break-after: always }
+a            { color: darkblue; font-weight: bold; text-decoration:none }
+a:hover      { text-decoration: underline }
+input        { font-family: Arial; font-size: 9pt }
+textarea     { font-family: Arial; font-size: 9pt }
+table        { font-family: Arial; font-size: 9pt }
+button       { font-family: Arial; font-size: 9pt }
+.storskrift	 { font-family: Arial; font-size: 14pt; font-weight: bold }
+.mellomskrift	 { font-family: Arial; font-size: 12pt; font-weight: bold }
+.bunntekst	 { font-family: Arial; font-size: 8pt }
+
+* { margin: 0px; padding: 0px; }
+
+h1,h2,h3,h4,h5,a,div,span,form,input,textarea,select,option,nobr, button, TD, TH
+{
+	font-family:verdana;font-size:x-small;color:#523c6a;
+}
+
+body,table,tr,td, p
+{
+	font-family:verdana;font-size:x-small;color:#545454; padding-left: 5px;
+}
+
+.BigFrame {border:1px solid #ece9f1; background-color: #217DA2;}
+.TableFrame {border:1px solid #ece9f1;}
+
+h1 {color:#523c6a;margin-bottom:1px;font-size:large;font-weight:normal; margin-top: 0px;}
+h2,h3,h5{color:#523c6a;margin-bottom:1px;font-size:small;font-weight:normal; }
+
+h4 {color:#523c6a;font-size:x-small;font-weight:bold;margin:0px}
+
+
+th { font-size: xx-small; }
+td { font-size: xx-small; }
+
+body         { font-family: Arial; font-size: 9pt }
+.sideskift   { page-break-after: always }
+a            { color: darkblue; font-weight: bold; text-decoration:none }
+a:hover      { text-decoration: underline }
+input        { font-family: Arial; font-size: 9pt }
+textarea     { font-family: Arial; font-size: 9pt }
+table        { font-family: Arial; font-size: 9pt }
+button       { font-family: Arial; font-size: 9pt }
+.storskrift	 { font-family: Arial; font-size: 14pt; font-weight: bold }
+.mellomskrift	 { font-family: Arial; font-size: 12pt; font-weight: bold }
+.bunntekst	 { font-family: Arial; font-size: 8pt }
+
+.header2     { font-family: Arial; font-size: 10pt; font-weight: bold; color:#523c6a;}
+.header3     { font-family: Arial; font-size: 10pt; color:#523c6a;}
+
+.col_1_topp		 { width: 80px; }
+.col_2_topp		 { width: 200px; }
+.col_3_topp		 { width: 30px; }
+.col_4_topp		 { width: 130px; }
+.col_5_topp		 { width: 40px; text-align: right;}
+.col_6_topp		 { width: 10px; }
+.col_7_topp		 { width: 30px; }
+.col_8_topp		 { width: 170px; }
+.col_9_topp		 { width: 20px; text-align: right;}
+.col_10_topp	 { width: 10px; }
+
+
+.col_art_NOBB	 { width: 80px; }
+.col_art_name	 { width: 250px; }
+.col_art_space1  { width: 30px; }
+.col_art_Antall  { width: 40px; text-align: right; }
+.col_art_Enhet   { width: 50px; }
+.col_art_space2  { width: 140px; }
+.col_art_space3  { width: 120px; }
+.col_art_space4  { width: 50px; }
+
+
+.col_sub_text_col1  { width: 500px;}
+.col_sub_text_col1a { width: 0px; }
+.col_sub_text_col2  { width: 200px;}
+.col_sub_text_col3  { width: 100px; text-align: right;}
+.col_sub_text_col4  { width: 0px;}
+
+
+.col_NOBB	 { width: 80px;}
+.col_name	 { width: 200px; }
+.col_TUN	 { width: 70px; }
+.col_1		 { width: 30px; }
+.col_2		 { width: 30px; }
+.col_4		 { width: 40px; text-align: right; }
+.col_5		 { width: 40px; }
+.col_6		 { width: 100px; }
+.col_7		 { width: 100px; }
+.col_8		 { width: 20px; }
+.col_subText { display:block;width: 150px; text-align:right;}
+.col_besk	 { width: 200px; }
+.col_JackGolv_name { width: 250px; }
+
+
+
+.tbl_artikler 
+{
+	border : 1px;	
+}
+
+.horisontal_linje 
+{
+	 FONT-SIZE:2pt; 
+	 BORDER-BOTTOM:black thin solid; 
+	 HEIGHT:2px;
+}
+
+.horisontal_linje_top
+{
+	 FONT-SIZE:2pt; 
+	 BORDER-TOP:black thin solid; 
+	 HEIGHT:1px;
+}
+
+/*
+H2	{	
+	font-family: Verdana. Arial. Helvetica. sans-serif;
+	font-size:	1.75em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H3	{	
+	font-family: Verdana. Arial. Helvetica. sans-serif;
+	font-size:	1.58em;
+	font-weight:	500;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+*/
+	
+.col1_name { width: 160px; }
+.col2_name { width: 200px; }
+.col3_name { width: 20px; } /* Space */
+.col4_name { width: 50px; }
+.col5_name { width: 20px; }
+.col6_name { width: 100px; } /* Space */
+.col7_name { width: 160px; }
+.col8_name { width: 20px; }
+
+.wwwJackonNo a { font-size: 12pt; font-weight:bold; }
+
+
+a
+{
+	font-family:verdana;font-size:xx-small;color:#523c6a;font-weight:normal;
+}
+
+.SectionHeader 
+{
+	FLOAT: left; 
+	width:400px; 
+	Position: relative;
+	height : 15pt;
+	vertical-align: baseline;
+	color:#523c6a;
+	margin-bottom:1px;
+	font-size:small;
+	font-weight:normal;
+}
+
+.headerText
+{
+	font-family : verdana;
+	font-size : 18pt;
+	font-weight : bold;
+	color : #523c6a;
+}
+
+.tbl_Prosjekt {
+    WIDTH: 450px; 
+    HEIGHT: 300px;
+    
+}
+
+
+.td_col_pro_label
+{
+	width: 200px;
+	font-family:verdana;
+	font-size:10pt;
+	color:#523c6a;
+	/* height: 15px; */
+}
+ 
+ 
+ .td_col_pro_txtbox
+ {
+	 WIDTH: 131px; 
+/*	 HEIGHT: 15px;  */
+ }
+ 
+ .td_col_pro_enhet
+ {
+	WIDTH: 32px; 
+	font-family:verdana;
+	font-size:10pt;
+	color:#523c6a;
+/*	HEIGHT: 15px;  */
+}
+	
+.td_col_pro_error
+{
+	WIDTH: 0px; 
+/*	HEIGHT: 15px; */
+}
+
+
+.tbl_Smygliste
+{
+	WIDTH: 160px; 
+	HEIGHT: 45px;
+}
+
+
+.td_col_smyg_head_bredde
+{
+	/*WIDTH: 80px;  */
+	HEIGHT: 25px;
+	font-family:verdana;
+	font-size:8pt;
+	color:#523c6a;
+}
+
+.td_col_smyg_head_hoyde
+{
+	HEIGHT: 25px;
+	font-family:verdana;
+	font-size:8pt;
+	color:#523c6a;
+}
+
+.td_col_smyg_head_antall
+{
+	HEIGHT: 25px;
+	font-family:verdana;
+	font-size:8pt;
+	color:#523c6a;
+}
+
+.td_col_smyg_bredde
+{
+	WIDTH: 50px;   /* 129px; */
+	HEIGHT: 8px;
+}
+
+.td_col_smyg_hoyde
+{
+	WIDTH: 50px; 
+	HEIGHT: 8px;
+}
+
+.td_col_smyg_antall
+{
+	WIDTH: 50px; 
+	HEIGHT: 8px;
+}
+
+.div_smygliste
+{
+	BORDER-TOP: black thin solid; 
+	WIDTH: 904px; 
+	HEIGHT: 250px;
+}
+
+.tbl_kundeinfo
+{
+	WIDTH: 808px; 
+	HEIGHT: 102px;
+}
+
+.td_col_kundeInfo_lbl
+{
+	WIDTH: 200px;
+	HEIGHT: 19px;
+	font-family:verdana;
+	font-size:10pt;
+	color:#523c6a;
+}
+
+.td_col_kundeInfo_std_felt
+{
+	WIDTH: 363px; 
+	HEIGHT: 19px;
+}
+
+.td_col_kundeInfo_short_felt
+{
+	width : 232px;	
+	height: 19px;
+}
+
+.td_col_kundeInfo_space
+{
+	width: 250px;
+	display: block;
+}
+
+
